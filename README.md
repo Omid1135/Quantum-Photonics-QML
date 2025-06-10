@@ -29,9 +29,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/YourGitHubUsername/QML-Photonics-BeamSplitter-Learning.git
-cd QML-Photonics-BeamSplitter-Learning
-(Remember to replace YourGitHubUsername with your actual GitHub username!)
+git clone https://github.com/Omid1135/Quantum-Photonics-QML.git 
+cd QML-Photonics-QML
 
 Create a Conda environment (recommended):
 
